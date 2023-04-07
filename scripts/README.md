@@ -2,10 +2,18 @@
 
 based on [this repo](https://github.com/karpathy/ng-video-lecture)
 
-**Note** before running install `torch` and `tqdm`
+**Note** before running:
+- install `torch` and `tqdm`
 ```
 pip install torch tqdm
 ```
+
+- download data:
+```
+wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+```
+
+---
 
 Each file is a self-sufficient training pipeline.
 
