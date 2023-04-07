@@ -1,0 +1,10 @@
+step 0/3000:train loss 4.7305,val loss 4.7241
+step 300/3000:train loss 2.8110,val loss 2.8249
+step 600/3000:train loss 2.5434,val loss 2.5682
+step 900/3000:train loss 2.4932,val loss 2.5088
+step 1200/3000:train loss 2.4863,val loss 2.5035
+step 1500/3000:train loss 2.4665,val loss 2.4921
+step 1800/3000:train loss 2.4683,val loss 2.4936
+step 2100/3000:train loss 2.4696,val loss 2.4846
+step 2400/3000:train loss 2.4638,val loss 2.4879
+step 2700/3000:train loss 2.4738,val loss 2.4911
